@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Death",
           "alias": "Elana Embly",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "e6d6dbda-ebd1-3424-d116-4c08255bbb48///NDL-C-DEEP-STATION//605421d8-f8ba-7353-6f89-021966012643",
           "corpro": "HORUS",
           "frame": "Lich",
           "mech": "Pale Horse"
